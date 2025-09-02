@@ -27,7 +27,7 @@ Olá, esse projeto é um Jogo da Forca em python, criado como um exercício para
 
  - tracos: lista que mostra as letras acertadas ou _ para as ainda não descobertas.
 
-## Possíveis melhorias:
+## POSSÍVEIS MELHORIAS:
  - Adicionar interface grásfica.
  - Permitir customizar a quantidade máxima de tentativas.
  - Carregar palavras de um arquivo externo.
